@@ -1,4 +1,4 @@
-##otp-verification-page
+OTP VERIFICATION PAGE
 
 This is made using HTML,CSS 
 
